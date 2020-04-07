@@ -1,0 +1,29 @@
+body{
+  background-color: white;
+  background-repeat: no-repeat;
+}
+
+
+
+
+
+.box img{
+  position:absolute;
+  height:70vh;
+  left:15vw;
+  top:15vh;
+}
+
+
+.box2 img{
+  position:absolute;
+  height:70vh;
+  left:15vw;
+  top:15vh;
+}
+
+
+
+.box:hover img{
+  opacity: 0;
+}
